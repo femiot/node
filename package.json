@@ -1,0 +1,14 @@
+{
+  "name": "express-app-nodejs",
+  "version": "0.0.0",
+  "description": "ExpressAppNodejs",
+  "main": "app.js",
+  "author": {
+    "name": "oluwafemi"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
